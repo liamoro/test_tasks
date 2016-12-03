@@ -1,0 +1,17 @@
+@media (max-width: 590px) {
+  .hide-1 {
+    display: none;
+  }
+}
+
+@media (max-width: 490px) {
+  .hide-2 {
+    display: none;
+  }
+}
+
+@media (max-width: 330px) {
+  .tbl-parent {
+    padding: 0;
+  }
+}

@@ -1,0 +1,101 @@
+.tbl-parent {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  padding: 20px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.tbl_raiting {
+  width: 100%;
+  background-color: #fff;
+  font-family: 'Roboto', 'Arial';
+  font-size: 13px;
+  color: #222;
+  text-align: center;
+  border-spacing: 0;
+}
+
+.tbl_raiting a {
+  text-decoration: none;
+  color: #006496;
+}
+
+.tbl_raiting thead {
+  font-family: 'Roboto-bold', 'Arial';
+  color: #006496;
+}
+
+.tbl_raiting thead tr th {
+  cursor: pointer;
+}
+
+.tbl_raiting thead tr th,
+.tbl_raiting tbody tr td {
+  position: relative;
+  padding: 10px;
+  min-width: 30px;
+  width: 30px;
+  border-top: 1px solid #d8d8d8;
+}
+
+.tbl_raiting tbody tr:last-child td {
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.tbl_raiting thead tr th:nth-child(1),
+.tbl_raiting tbody tr td:nth-child(1) {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  min-width: 40px;
+  max-width: 40px;
+}
+
+.tbl_raiting thead tr th:nth-child(2) {
+  width: 100%;
+  min-width: 130px;
+  color: #222;
+  text-align: left;
+  border-right: 1px solid #d8d8d8;
+}
+
+.tbl_raiting tbody tr td:nth-child(1),
+.tbl_raiting tbody tr td:nth-child(2) {
+  text-align: left;
+}
+
+.tbl_raiting tbody tr td:nth-child(2) {
+  padding-left: 30px;
+  background-image: url(../img/it-flag.png);
+  background-repeat: no-repeat;
+  background-position: 10px 50%;
+  border-right: 1px solid #d8d8d8;
+}
+
+.tbl_raiting thead tr th:last-child,
+.tbl_raiting tbody tr td:last-child {
+  text-align: right;
+  background-color: #f9f9f7;
+}
+
+.tfooter {
+  font-size: 11px;
+  text-align: left;
+}
+
+.tfooter span {
+  font-family: 'Roboto-bold', 'Arial';
+  font-style: bold;
+}
+
+.bg-lgth-green {
+  background-color: #cceed6;
+}
+
+.bg-green {
+  background-color: #7fd498;
+}
+
+.bg-red {
+  background-color: #ff99b1;
+}
