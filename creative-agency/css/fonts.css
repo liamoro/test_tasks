@@ -1,0 +1,60 @@
+/* font-family: "Montserrat"; */
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/MontserratRegular/Montserrat-Regular.eot");
+	src: url("../fonts/MontserratRegular/Montserrat-Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MontserratRegular/Montserrat-Regular.woff") format("woff"),
+	url("../fonts/MontserratRegular/Montserrat-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Montserrat"; */
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/MontserratBold/Montserrat-Bold.eot");
+	src: url("../fonts/MontserratBold/Montserrat-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MontserratBold/Montserrat-Bold.woff") format("woff"),
+	url("../fonts/MontserratBold/Montserrat-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "OpenSansRegular"; */
+@font-face {
+    font-family: "OpenSansRegular";
+    src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+    src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+    url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansItalic"; */
+@font-face {
+    font-family: "OpenSansItalic";
+    src: url("../fonts/OpenSansItalic/OpenSansItalic.eot");
+    src: url("../fonts/OpenSansItalic/OpenSansItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansItalic/OpenSansItalic.woff") format("woff"),
+    url("../fonts/OpenSansItalic/OpenSansItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansBold"; */
+@font-face {
+    font-family: "OpenSansBold";
+    src: url("../fonts/OpenSansBold/OpenSansBold.eot");
+    src: url("../fonts/OpenSansBold/OpenSansBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansBold/OpenSansBold.woff") format("woff"),
+    url("../fonts/OpenSansBold/OpenSansBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Arabic-Typesetting"; */
+@font-face {
+    font-family: "Arabic-Typesetting";
+    src: url("../fonts/ArabicTypesetting/Arabic-Typesetting.eot");
+    src: url("../fonts/ArabicTypesetting/Arabic-Typesetting.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ArabicTypesetting/Arabic-Typesetting.woff") format("woff"),
+    url("../fonts/ArabicTypesetting/Arabic-Typesetting.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
